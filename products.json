@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Piano Princesas",
+    "description": "Piano Musical Princesas Alfombra De Juguete Con Micrófono Zippy",
+    "price": 29946,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_859443-MLA72061570897_102023-F.webp",
+    "code": "girls1234",
+    "stock": 15
+  },
+  {
+    "id": 2,
+    "title": "Robot Musical",
+    "description": "Robot Musical Luz Sonido Y Movimiento Lanza Flechas",
+    "price": 17850,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_724198-MLU72605082855_102023-F.webp",
+    "code": "boys1234",
+    "stock": 25
+  }
+]
